@@ -48,8 +48,7 @@ This project is a comprehensive philosophical and technical audit of the **Linux
 ### Installation
 
 # Clone the repository
-git clone https://github.com/Yashodhara2024/oss-audit-24BCE10696.git
-cd oss-audit-24BCE10696
+git clone https://github.com/abhisand2815/oss-audit-24BCE10726.git
 
 # Make scripts executable
 chmod +x scripts/*.sh
